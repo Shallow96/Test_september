@@ -1,0 +1,20 @@
+@font-face {
+    font-family: PFD-Light;
+    src: url(../fonts/PFDinTextCondPro-Light.ttf);
+}
+@font-face {
+    font-family: PFD-Bold;
+    src: url(../fonts/PFDinTextCondPro-Bold.ttf);
+}
+@font-face {
+    font-family: PFD-Medium;
+    src: url(../fonts/PFDinTextCondPro-Medium.ttf);
+}
+@font-face {
+    font-family: PFD-Thin;
+    src: url(../fonts/PFDinTextCondPro-Thin.ttf);
+}
+@font-face {
+    font-family: PFD-Regular;
+    src: url(../fonts/PFDinTextCondPro-Regular.ttf);
+}
